@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER kev <614422099@qq.com>
+MAINTAINER dingdayu <614422099@qq.com>
 
 RUN set -xe \
     && apk add -U rsync \
