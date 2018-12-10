@@ -26,3 +26,9 @@ Edit `rsyncd.secrets` at modify permissions.
 Edit `rsyncd.motd` at modify login tips.
 
 Edit `rsyncd.conf` at modify rsyncd config.
+
+## client
+
+Please visit
+
+[Rsync命令参数详解](https://www.cnblogs.com/subsir/articles/2565373.html)
