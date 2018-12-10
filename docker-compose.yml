@@ -1,5 +1,5 @@
 rsyncd:
-  image: dingdayu/rsyncd
+  image: registrys/rsyncd
   ports:
     - "873:873"
   volumes:
